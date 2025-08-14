@@ -16,4 +16,4 @@ jobs:
         run: javac FortuneTeller.java
       - name: Run with sample input
         run: |
-          printf "Tarun\nWill I ace my test?\n" | java FortuneTeller
+          printf "tarun\is coolie movie good?\n" | java FortuneTeller
